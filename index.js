@@ -1,4 +1,4 @@
-// binds an event listener in addingEventListener()
+// Function that binds an event listener in addingEventListener()
 function addingEventListener() {
   const input = document.getElementById('input');
 
